@@ -11,6 +11,9 @@
 [![YouTube](https://img.shields.io/badge/youtube-@lf_edge--youtube-red.svg)](https://www.youtube.com/channel/UCY7H1oSt8gvXNdXH9wrNq5Q)
 <a href="https://chat.lfx.linuxfoundation.org/#/welcome" alt="Element">
 <img src="https://img.shields.io/badge/Element-@element.svg?logo=element" /></a>
+<a href=" https://lists.lfedge.org/g/open-horizon" alt="Mailing-List">
+<img src="https://img.shields.io/badge/Mailing-List-@mailing-list.svg?logo=mailing-list" /></a>
+
 </p>
 
 
