@@ -6,9 +6,9 @@
 
 <p align="center">
 
-<a href="https://github.com/open-horizon" alt="Open Horizon contributors">
-<img alt="GitHub contributors" src=""></a>
-
+[![Slack](https://img.shields.io/badge/slack-@mojaglobal--community-yellow.svg)](https://mojaglobal.slack.com/)
+[![Twitter](https://img.shields.io/badge/twitter-@lf_edge--twitter-9cf.svg)](https://twitter.com/lf_edge)
+[![YouTube](https://img.shields.io/badge/youtube-@lf_edge--youtube-red.svg)](https://www.youtube.com/channel/UCY7H1oSt8gvXNdXH9wrNq5Q)
 <a href="https://chat.lfx.linuxfoundation.org/#/welcome" alt="Element">
 <img src="https://img.shields.io/badge/Element-@element.svg?logo=element" /></a>
 
