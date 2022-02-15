@@ -32,7 +32,7 @@ You can reach out to us through the following channels as well:
 
 - [Chat Server](https://chat.lfx.linuxfoundation.org/ )
 
-### 🍿 Community driven development
+### Community driven development
 
 We love to build ❤ our product in open source.
  - Please Join us such that we can make Open Horizon more robust and wider with your contribution.
