@@ -1,12 +1,12 @@
 # Welcome to Open Horizon 👋
 
 <p style="text-align:center;" align="center">
-  <img align="center" src="https://github.com/Ayush7614/.github/blob/master/profile/open-horizon-color.png" width="65%" />
+  <img align="center" src="https://github.com/Ayush7614/.github/blob/master/profile/open-horizon-color.png" width="55%" />
 </p>
 
 <p align="center">
 
-[![Slack](https://img.shields.io/badge/slack-@mojaglobal--community-yellow.svg)](https://mojaglobal.slack.com/)
+[![Slack](https://img.shields.io/badge/slack-@lf_edge--community-yellow.svg)](https://lfedge.slack.com/)
 [![Twitter](https://img.shields.io/badge/twitter-@lf_edge--twitter-9cf.svg)](https://twitter.com/lf_edge)
 [![YouTube](https://img.shields.io/badge/youtube-@lf_edge--youtube-red.svg)](https://www.youtube.com/channel/UCY7H1oSt8gvXNdXH9wrNq5Q)
 <a href="https://chat.lfx.linuxfoundation.org/#/welcome" alt="Element">
