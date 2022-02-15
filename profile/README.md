@@ -20,8 +20,7 @@ Here are few things which we have developed in last couple of years.
  - Try [anax](https://github.com/open-horizon/anax), Horizon agent control system .
  - Checkout the [documentation website](https://github.com/open-horizon/open-horizon.github.io) to get started.
  - Try [edge-sync-service](https://github.com/open-horizon/edge-sync-service), A subsystem for managing machine learning models at the edge.
- - Try More Project on Github[open-horizon](https://github.com/open-horizon).
-
+ - Try More Project on Github,[open-horizon](https://github.com/open-horizon).
 
 ## Contact
 
@@ -33,4 +32,7 @@ You can reach out to us through the following channels as well:
 
 - [Chat Server](https://chat.lfx.linuxfoundation.org/ )
 
+### 🍿 Community driven development
 
+We love to build ❤ our product in open source.
+ - Please Join us such that we can make Open Horizon more robust and wider with your contribution.
