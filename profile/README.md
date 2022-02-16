@@ -6,7 +6,8 @@
 
 <p align="center">
 
-[![Element](https://img.shields.io/badge/element-@open_horizon--element-yellow.svg)](https://chat.lfx.linuxfoundation.org/#/welcome)
+[![Element](https://img.shields.io/badge/element-@open_horizon--element-green.svg)](https://chat.lfx.linuxfoundation.org/#/welcome)
+[![Project Page](https://img.shields.io/badge/projectpage-@open_horizon--projectpage-orange.svg)](https://www.lfedge.org/projects/openhorizon/)
 [![Wiki](https://img.shields.io/badge/wiki-@lf_edge--wiki-9cf.svg)](https://wiki.lfedge.org/display/OH/Open+Horizon)
 [![Twitter](https://img.shields.io/badge/twitter-@lf_edge--twitter-yellow.svg)](https://twitter.com/lf_edge)
 [![YouTube](https://img.shields.io/badge/youtube-@lf_edge--youtube-red.svg)](https://www.youtube.com/channel/UCY7H1oSt8gvXNdXH9wrNq5Q)
