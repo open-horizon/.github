@@ -38,3 +38,16 @@ You can reach out to us through the following channels as well:
 We love to build ❤ our product in open source.
  - Please Join us such that we can make Open Horizon more robust and wider with your contribution.
  - Open Horizon is a Stage Two: Growth project at [LF Edge](https://www.lfedge.org/), an umbrella group within the Linux Foundation.
+
+### 👓 Appendix
+
+- [Documentation Site](https://open-horizon.github.io/)
+- [Getting Involved with LF Edge](https://www.lfedge.org/wp-content/uploads/2022/01/Getting-Involved-with-LF-Edge_Jan2022.pdf)
+- [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/)
+- [Anti-trust Policy](https://lfprojects.org/policies/antitrust-policy/)
+
+  <details> 
+    <summary>Glossary</summary>
+          <br>
+          <li><a href="https://kubernetes.io/">Kubernetes</a></li>
+  </details>
