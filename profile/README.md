@@ -25,7 +25,7 @@ Here are some steps to learn and use the Open Horizon component services.
 
 ## Contact
 
-As a developer you can use Github issues and discussions on the respective repositories to report bugs, request features, and discuss changes. We recommend using issues to connect with maintainers, contributors and other community members. As a user, you can use the [open horizon](https://www.lfedge.org/projects/openhorizon/) website to connect with us and let's link maintainers, contributors and other community members to the community page on the wiki that explains what those roles are: https://wiki.lfedge.org/display/OH/Community+Membership
+As a developer you can use Github issues and discussions on the respective repositories to report bugs, request features, and discuss changes. We recommend using issues to connect with maintainers, contributors and other community members. As a user, you can use the [open horizon](https://www.lfedge.org/projects/openhorizon/) website to connect with us and let's link maintainers, contributors and other community members to the community page on the wiki that explains what those roles are [here](https://wiki.lfedge.org/display/OH/Community+Membership).
 
 You can reach out to us through the following channels as well:
 
