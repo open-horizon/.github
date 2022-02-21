@@ -24,17 +24,15 @@ Here are some steps to learn and use the Open Horizon component services.
 - [Create and publish your own services](https://github.com/open-horizon-services/Getting-Started#contributing-a-new-microservice).
 
 ## Contact
-
-As a developer you can use Github issues and discussions on the respective repositories to report bugs, request features, and discuss changes. We recommend using issues to connect with maintainers, contributors and other community members. As a user, you can use the [open horizon](https://www.lfedge.org/projects/openhorizon/) website to connect with us and let's link maintainers, contributors and other community members to the community page on the wiki that explains what those roles are [here](https://wiki.lfedge.org/display/OH/Community+Membership).
+For reporting bugs, requesting features, and discussing changes, developers should use Github issues and discussions on these repositories. Using issues, you can [maintainers, contributors and other  members](https://wiki.lfedge.org/display/OH/Community+Membership) of the community. To connect with the community and learn more about the software solution, new users should bookmark or visit the [Open Horizon web site](https://www.lfedge.org/projects/openhorizon/).
 
 You can reach out to us through the following channels as well:
 
 - [Mailing List](https://lists.lfedge.org/g/open-horizon) 
-
 - [Chat Server](https://chat.lfx.linuxfoundation.org/ )
 
 ### Community driven development
 
 We love to build ❤ our product in open source.
- - Please Join us such that we can make Open Horizon more robust and wider with your contribution.
- - Open Horizon is a Stage Two: Growth project at [LF Edge](https://www.lfedge.org/), an umbrella group within the Linux Foundation.
+ - At [LF Edge](https://www.lfedge.org/), the umbrella group within the Linux Foundation, Open Horizon is a Stage Two: Growth project.
+ - Join us so we can make Open Horizon more robust and more inclusive.
