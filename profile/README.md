@@ -1,6 +1,6 @@
 <div>
-<div style="display:inline; font-size:2em; font-weight: bolder" align="left"> Welcome to Open Horizon 👋</div>
-<img align="right" src="/profile/open-horizon-color.png" height="10%" width="10%">
+<img align="" src="/profile/open-horizon-color.png" height="10%" width="10%">
+<h1 style="display:inline;"> Welcome to Open Horizon 👋</h1>
 </div>
 <p align="center">
 
