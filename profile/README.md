@@ -1,9 +1,7 @@
-# Welcome to Open Horizon 👋
-
-<p style="text-align:center;" align="center">
-  <img align="center" src="/profile/open-horizon-color.png" />
-</p>
-
+<div>
+<div style="display:inline; font-size:2em; font-weight: bolder" align="left"> Welcome to Open Horizon 👋</div>
+<img align="right" src="/profile/open-horizon-color.png" height="10%" width="10%">
+</div>
 <p align="center">
 
 [![Element](https://img.shields.io/badge/element-@open_horizon--element-green.svg)](https://chat.lfx.linuxfoundation.org/#/welcome)
