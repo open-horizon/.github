@@ -1,9 +1,7 @@
-# Welcome to Open Horizon 👋
-
-<p style="text-align:center;" align="center">
-  <img align="center" src="https://github.com/Ayush7614/.github/blob/master/profile/open-horizon-color.png" width="55%" />
-</p>
-
+<div>
+<img align="display:inline" src="/profile/open-horizon-color.png" height="10%" width="10%">
+<h1 style="display:inline;"> Welcome to Open Horizon 👋</h1>
+</div>
 <p align="center">
 
 [![Element](https://img.shields.io/badge/element-@open_horizon--element-green.svg)](https://chat.lfx.linuxfoundation.org/#/welcome)
@@ -24,30 +22,33 @@ Here are some steps to learn and use the Open Horizon component services.
 - [Create and publish your own services](https://github.com/open-horizon-services/Getting-Started#contributing-a-new-microservice).
 
 ## Contact
-
-As a developer you can use Github issues and discussions on the respective repositories to report bugs, request features, and discuss changes. We recommend using issues to connect with maintainers, contributors and other community members. As a user, you can use the [open horizon](https://www.lfedge.org/projects/openhorizon/) website to connect with us and let's link maintainers, contributors and other community members to the community page on the wiki that explains what those roles are: https://wiki.lfedge.org/display/OH/Community+Membership
+For reporting bugs, requesting features, and discussing changes, developers should use Github issues and discussions on these repositories. Using issues, you can [maintainers, contributors and other  members](https://wiki.lfedge.org/display/OH/Community+Membership) of the community. To connect with the community and learn more about the software solution, new users should bookmark or visit the [Open Horizon web site](https://www.lfedge.org/projects/openhorizon/).
 
 You can reach out to us through the following channels as well:
 
 - [Mailing List](https://lists.lfedge.org/g/open-horizon) 
-
 - [Chat Server](https://chat.lfx.linuxfoundation.org/ )
 
 ### Community driven development
 
 We love to build ❤ our product in open source.
- - Please Join us such that we can make Open Horizon more robust and wider with your contribution.
- - Open Horizon is a Stage Two: Growth project at [LF Edge](https://www.lfedge.org/), an umbrella group within the Linux Foundation.
+ - At [LF Edge](https://www.lfedge.org/), the umbrella group within the Linux Foundation, Open Horizon is a Stage Two: Growth project.
+ - Join us so we can make Open Horizon more robust and more inclusive.
 
 ### 👓 Appendix
 
 - [Documentation Site](https://open-horizon.github.io/)
 - [Getting Involved with LF Edge](https://www.lfedge.org/wp-content/uploads/2022/01/Getting-Involved-with-LF-Edge_Jan2022.pdf)
+- [FAQs](https://open-horizon.github.io/docs/getting_started/faq.html)
+- [Mentorship Opportunities](https://wiki.lfedge.org/display/OH/Mentorship+Programs)
 - [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/)
 - [Anti-trust Policy](https://lfprojects.org/policies/antitrust-policy/)
 
   <details> 
     <summary>Glossary</summary>
           <br>
+          <li><a href="https://www.ibm.com/cloud/learn/containerization">Containerization</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Edge_computing">Edge computing</a></li>
           <li><a href="https://kubernetes.io/">Kubernetes</a></li>
+
   </details>
