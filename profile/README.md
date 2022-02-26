@@ -1,7 +1,7 @@
-<div>
-<img align="display:inline" src="/profile/open-horizon-color.png" height="10%" width="10%">
-<h1 style="display:inline;"> Welcome to Open Horizon 👋</h1>
-</div>
+# Welcome to Open Horizon 👋
+<p align="center">
+<img align="center" src="/profile/open-horizon-color.png" height="30%" width="30%"/>
+</p align ="center">
 <p align="center">
 
 [![Element](https://img.shields.io/badge/element-@open_horizon--element-green.svg)](https://chat.lfx.linuxfoundation.org/#/welcome)
@@ -44,11 +44,11 @@ We love to build ❤ our product in open source.
 - [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/)
 - [Anti-trust Policy](https://lfprojects.org/policies/antitrust-policy/)
 
-  <details> 
+<details> 
     <summary>Glossary</summary>
           <br>
           <li><a href="https://www.ibm.com/cloud/learn/containerization">Containerization</a></li>
           <li><a href="https://en.wikipedia.org/wiki/Edge_computing">Edge computing</a></li>
           <li><a href="https://kubernetes.io/">Kubernetes</a></li>
 
-  </details>
+</details>
