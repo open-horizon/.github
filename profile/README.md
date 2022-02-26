@@ -1,14 +1,15 @@
 # Welcome to Open Horizon 👋
 <p align="center">
 <img align="center" src="/profile/open-horizon-color.png" height="30%" width="30%"/>
-</p align ="center">
-<p align="center">
+</p>
 
-[![Element](https://img.shields.io/badge/element-@open_horizon--element-green.svg)](https://chat.lfx.linuxfoundation.org/#/welcome)
-[![Project Page](https://img.shields.io/badge/projectpage-@open_horizon--projectpage-orange.svg)](https://www.lfedge.org/projects/openhorizon/)
-[![Wiki](https://img.shields.io/badge/wiki-@lf_edge--wiki-9cf.svg)](https://wiki.lfedge.org/display/OH/Open+Horizon)
-[![Twitter](https://img.shields.io/badge/twitter-@lf_edge--twitter-yellow.svg)](https://twitter.com/lf_edge)
-[![YouTube](https://img.shields.io/badge/youtube-@lf_edge--youtube-red.svg)](https://www.youtube.com/channel/UCY7H1oSt8gvXNdXH9wrNq5Q)
+<p align="center">
+<a href="https://chat.lfx.linuxfoundation.org/#/welcome" alt="element"><img src="https://img.shields.io/badge/element-@open_horizon--element-green.svg" alt="element"></img></a>
+<a href="https://www.lfedge.org/projects/openhorizon/" alt="Project page"><img src="https://img.shields.io/badge/projectpage-@open_horizon--projectpage-orange.svg" alt="Project Page"></img></a>
+<a href="https://wiki.lfedge.org/display/OH/Open+Horizon" alt="Wiki"><img src="https://img.shields.io/badge/wiki-@lf_edge--wiki-9cf.svg" alt="wiki"></img></a>
+<a href="https://twitter.com/lf_edge)" alt="twitter"><img src="https://img.shields.io/badge/twitter-@lf_edge--twitter-yellow.svg" alt="twitter"></img></a>
+<a href="https://www.youtube.com/channel/UCY7H1oSt8gvXNdXH9wrNq5Q" alt="youtube"><img src="https://img.shields.io/badge/youtube-@lf_edge--youtube-red.svg" alt="youtube"></img></a>
+
 </p>
 
 [Open Horizon](https://www.lfedge.org/projects/openhorizon/) is a platform for managing the service software lifecycle of containerized workloads and related machine learning assets. It enables autonomous management of applications deployed to distributed webscale fleets of edge computing nodes and devices without requiring on-premise administrators.
