@@ -6,7 +6,7 @@ Here are some guidelines and instructions for contributing to our projects. Plea
 
 ## Code of Conduct
 
-Open-Horizon governs its participants according to the Contributor Covenant [Code of Conduct](CODE_OF_CONDUCT.md). As a contributor, you agree to uphold this code. 
+Open-Horizon governs its participants according to the Contributor [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/). As a contributor, you agree to uphold this code. 
 
 ## FAQ and General Questions
 
