@@ -7,9 +7,12 @@
 <a href="https://chat.lfx.linuxfoundation.org/#/welcome" alt="element"><img src="https://img.shields.io/badge/element-@open_horizon--element-green.svg" alt="element"></img></a>
 <a href="https://www.lfedge.org/projects/openhorizon/" alt="Project page"><img src="https://img.shields.io/badge/projectpage-@open_horizon--projectpage-orange.svg" alt="Project Page"></img></a>
 <a href="https://wiki.lfedge.org/display/OH/Open+Horizon" alt="Wiki"><img src="https://img.shields.io/badge/wiki-@lf_edge--wiki-9cf.svg" alt="wiki"></img></a>
+<a href="https://github.com/open-horizon?tab=repositories"><img src="https://badges.pufler.dev/repos/open-horizon" alt="Open Horizon" /> </a>
+<img src="https://img.shields.io/github/stars/open-horizon?label=Stars" alt="Total Stars">
+<!--
 <a href="https://twitter.com/lf_edge)" alt="twitter"><img src="https://img.shields.io/badge/twitter-@lf_edge--twitter-yellow.svg" alt="twitter"></img></a>
 <a href="https://www.youtube.com/channel/UCY7H1oSt8gvXNdXH9wrNq5Q" alt="youtube"><img src="https://img.shields.io/badge/youtube-@lf_edge--youtube-red.svg" alt="youtube"></img></a>
-
+-->
 </p>
 
 [Open Horizon](https://www.lfedge.org/projects/openhorizon/) is a platform for managing the service software lifecycle of containerized workloads and related machine learning assets. It enables autonomous management of applications deployed to distributed webscale fleets of edge computing nodes and devices without requiring on-premise administrators.
@@ -32,10 +35,16 @@ You can reach out to us through the following channels as well:
 
 ### Community driven development
 
-We love to build ❤ our product in open source.
+❤ We love to build our products in open source.
  - At [LF Edge](https://www.lfedge.org/), the umbrella group within the Linux Foundation, Open Horizon is a Stage Two: Growth project.
  - Join us so we can make Open Horizon more robust and more inclusive.
 
+### Follow us on
+
+[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/lf_edge)
+[<img align="left" alt="Youtube" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/youtube.svg" width="30px">](https://www.youtube.com/channel/UCY7H1oSt8gvXNdXH9wrNq5Q) 
+<br>
+<br>
 ### 👓 Appendix
 
 - [Documentation Site](https://open-horizon.github.io/)
@@ -45,11 +54,11 @@ We love to build ❤ our product in open source.
 - [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/)
 - [Anti-trust Policy](https://lfprojects.org/policies/antitrust-policy/)
 
-<details> 
-    <summary>Glossary</summary>
-          <br>
-          <li><a href="https://www.ibm.com/cloud/learn/containerization">Containerization</a></li>
-          <li><a href="https://en.wikipedia.org/wiki/Edge_computing">Edge computing</a></li>
-          <li><a href="https://kubernetes.io/">Kubernetes</a></li>
 
-</details>
+ ### Glossary    
+
+ - [Containerization](https://www.ibm.com/cloud/learn/containerization)
+ - [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
+ - [Kubernetes](https://kubernetes.io/)
+
+        
