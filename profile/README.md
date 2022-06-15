@@ -10,7 +10,7 @@
 <a href="https://github.com/open-horizon?tab=repositories"><img src="https://badges.pufler.dev/repos/open-horizon" alt="Open Horizon" /> </a>
 <img src="https://img.shields.io/github/stars/open-horizon?label=Stars" alt="Total Stars">
 <!--
-<a href="https://twitter.com/lf_edge)" alt="twitter"><img src="https://img.shields.io/badge/twitter-@lf_edge--twitter-yellow.svg" alt="twitter"></img></a>
+<a href="https://twitter.com/lf_edge" alt="twitter"><img src="https://img.shields.io/badge/twitter-@lf_edge--twitter-yellow.svg" alt="twitter"></img></a>
 <a href="https://www.youtube.com/channel/UCY7H1oSt8gvXNdXH9wrNq5Q" alt="youtube"><img src="https://img.shields.io/badge/youtube-@lf_edge--youtube-red.svg" alt="youtube"></img></a>
 -->
 </p>
