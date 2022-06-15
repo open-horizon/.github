@@ -9,10 +9,6 @@
 <a href="https://wiki.lfedge.org/display/OH/Open+Horizon" alt="Wiki"><img src="https://img.shields.io/badge/wiki-@lf_edge--wiki-9cf.svg" alt="wiki"></img></a>
 <a href="https://github.com/open-horizon?tab=repositories"><img src="https://badges.pufler.dev/repos/open-horizon" alt="Open Horizon" /> </a>
 <img src="https://img.shields.io/github/stars/open-horizon?label=Stars" alt="Total Stars">
-<!--
-<a href="https://twitter.com/lf_edge" alt="twitter"><img src="https://img.shields.io/badge/twitter-@lf_edge--twitter-yellow.svg" alt="twitter"></img></a>
-<a href="https://www.youtube.com/channel/UCY7H1oSt8gvXNdXH9wrNq5Q" alt="youtube"><img src="https://img.shields.io/badge/youtube-@lf_edge--youtube-red.svg" alt="youtube"></img></a>
--->
 </p>
 
 [Open Horizon](https://www.lfedge.org/projects/openhorizon/) is a platform for managing the service software lifecycle of containerized workloads and related machine learning assets. It enables autonomous management of applications deployed to distributed webscale fleets of edge computing nodes and devices without requiring on-premise administrators.
@@ -44,7 +40,6 @@ You can reach out to us through the following channels as well:
 [<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://twitter.com/lf_edge)
 [<img align="left" alt="Youtube" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/youtube.svg" width="30px">](https://www.youtube.com/channel/UCY7H1oSt8gvXNdXH9wrNq5Q) 
 <br>
-<br>
 ### 👓 Appendix
 
 - [Documentation Site](https://open-horizon.github.io/)
@@ -54,11 +49,8 @@ You can reach out to us through the following channels as well:
 - [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/)
 - [Anti-trust Policy](https://lfprojects.org/policies/antitrust-policy/)
 
-
  ### Glossary    
 
  - [Containerization](https://www.ibm.com/cloud/learn/containerization)
  - [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
  - [Kubernetes](https://kubernetes.io/)
-
-        
