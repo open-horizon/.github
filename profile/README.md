@@ -7,7 +7,7 @@
 <a href="https://chat.lfx.linuxfoundation.org/#/welcome" alt="element"><img src="https://img.shields.io/badge/element-@open_horizon--element-green.svg" alt="element"></img></a>
 <a href="https://www.lfedge.org/projects/openhorizon/" alt="Project page"><img src="https://img.shields.io/badge/projectpage-@open_horizon--projectpage-orange.svg" alt="Project Page"></img></a>
 <a href="https://wiki.lfedge.org/display/OH/Open+Horizon" alt="Wiki"><img src="https://img.shields.io/badge/wiki-@lf_edge--wiki-9cf.svg" alt="wiki"></img></a>
-<a href="https://twitter.com/lf_edge)" alt="twitter"><img src="https://img.shields.io/badge/twitter-@lf_edge--twitter-yellow.svg" alt="twitter"></img></a>
+<a href="https://twitter.com/lf_edge/" alt="twitter"><img src="https://img.shields.io/badge/twitter-@lf_edge--twitter-yellow.svg" alt="twitter"></img></a>
 <a href="https://www.youtube.com/channel/UCY7H1oSt8gvXNdXH9wrNq5Q" alt="youtube"><img src="https://img.shields.io/badge/youtube-@lf_edge--youtube-red.svg" alt="youtube"></img></a>
 
 </p>
