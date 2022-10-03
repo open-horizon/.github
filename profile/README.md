@@ -35,7 +35,7 @@ You can reach out to us through the following channels as well:
 We love to build ❤ our product in open source.
  - At [LF Edge](https://www.lfedge.org/), the umbrella group within the Linux Foundation, Open Horizon is a Stage Two: Growth project.
  - Join us so we can make Open Horizon more robust and more inclusive.
- - Please read our [contribution guidelines](../CONTRIBUTING.md) for details of how you can get involved, and [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/) for information about how to participate.
+ - Please read our [contribution guidelines](https://github.com/open-horizon/.github/blob/master/CONTRIBUTING.md) for details of how you can get involved, and [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/) for information about how to participate.
 
 ### 👓 Appendix
 
