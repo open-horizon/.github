@@ -41,7 +41,7 @@ We love to build ❤ our product in open source.
 
 - [Documentation Site](https://open-horizon.github.io/)
 - [Getting Involved with LF Edge](https://www.lfedge.org/wp-content/uploads/2022/01/Getting-Involved-with-LF-Edge_Jan2022.pdf)
-- [FAQs](https://open-horizon.github.io/docs/getting_started/faq.html)
+- [FAQs](https://open-horizon.github.io/docs/getting_started/faq)
 - [Mentorship Opportunities](https://wiki.lfedge.org/display/OH/Mentorship+Programs)
 - [Code of Conduct](https://lfprojects.org/policies/code-of-conduct/)
 - [Anti-trust Policy](https://lfprojects.org/policies/antitrust-policy/)
