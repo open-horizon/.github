@@ -3,7 +3,6 @@
 <p align="center">
 <img align="center" src="/profile/open-horizon-color.png" height="30%" width="30%"/>
 </p>
-
 <p align="center">
 <a href="https://chat.lfx.linuxfoundation.org/#/welcome" alt="element"><img src="https://img.shields.io/badge/element-@open_horizon--element-green.svg" alt="element"></img></a>
 <a href="https://www.lfedge.org/projects/openhorizon/" alt="Project page"><img src="https://img.shields.io/badge/projectpage-@open_horizon--projectpage-orange.svg" alt="Project Page"></img></a>
