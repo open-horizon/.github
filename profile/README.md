@@ -17,7 +17,7 @@
 ### 🏂 Haven't tried Open Horizon yet?
 Here are some steps to learn and use the Open Horizon component services.
 
-- [Install the Management Hub Services](https://github.com/open-horizon/devops/blob/master/mgmt-hub/README.md#-deploy-all-in-1-horizon-management-hub-agent-and-cli) on an x86 machine or VM using our easy all-in-one script.
+- [Install the Management Hub Services](https://open-horizon.github.io/docs/mgmt-hub/docs/index.html) on an x86 machine or VM using our easy all-in-one script.
 - [Install the Agent](https://github.com/open-horizon/devops/blob/master/mgmt-hub/README.md#adding-more-edge-devices) on almost any single-board computer (SBC), desktop, laptop, or Kubernetes cluster.
 - Publish and use [our example services](https://github.com/open-horizon/examples/tree/master/edge/services).
 - [Create and publish your own services](https://github.com/open-horizon-services/Getting-Started#contributing-a-new-microservice).
