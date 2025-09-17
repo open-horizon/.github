@@ -28,7 +28,7 @@ For reporting bugs, requesting features, and discussing changes, developers shou
 You can reach out to us through the following channels as well:
 
 - [Mailing List](https://lists.lfedge.org/g/open-horizon) 
-- [Chat Server](https://chat.lfx.linuxfoundation.org/ )
+- [Chat Server](https://linuxfoundation.zulipchat.com/#narrow/channel/527924-open-horizon)
 
 ### Community driven development
 
